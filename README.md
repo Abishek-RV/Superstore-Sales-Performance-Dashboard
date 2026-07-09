@@ -38,7 +38,7 @@ This project is an interactive Power BI dashboard built using the Superstore dat
 - KPI cards provide a quick overview of business performance.
 
 ## 📷 Dashboard Preview
-> Add your dashboard screenshot here.
+<img width="1317" height="735" alt="Dashboard" src="https://github.com/user-attachments/assets/706efb21-8328-4498-ace9-64d0a6204d38" />
 
 
 ## 📂 Dataset

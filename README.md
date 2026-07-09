@@ -54,17 +54,17 @@ Superstore Sales Dataset
 - Business Intelligence
 - Data Analysis
 
-📁 Project Files
+##📁 Project Files
 
 📂 Superstore-Sales-Performance-Dashboard
-│── Dashboard.pbix
 │── Superstore.xlsx
 │── Dashboard.png
 └── README.md
 ```
 
-## 👨‍💻 Author
-**Abishek R V**
+Author
+
+Abishek RV
 
 Aspiring Data Analyst
 

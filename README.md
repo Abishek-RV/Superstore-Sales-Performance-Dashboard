@@ -1,71 +1,112 @@
 # 📊 Superstore Sales Performance Dashboard
 
 ## 📖 Overview
-This project is an interactive Power BI dashboard built using the Superstore dataset. It provides insights into sales performance, profitability, customer segments, and regional trends through dynamic visualizations and KPI tracking.
+
+The Superstore Sales Performance Dashboard is an interactive Power BI project designed to analyze retail sales data and provide actionable business insights. The dashboard enables users to monitor key business metrics, explore sales trends, compare regional performance, and evaluate product categories through interactive visualizations.
+
+---
 
 ## 🎯 Objectives
-- Analyze overall sales and profit performance.
-- Identify top-performing categories and sub-categories.
-- Compare sales across regions and customer segments.
-- Track yearly profit trends.
-- Enable interactive analysis using filters and slicers.
 
-## 🛠️ Tools Used
-- Power BI
-- DAX
+- Analyze overall business performance.
+- Monitor key sales and profit metrics.
+- Compare sales across regions and ship modes.
+- Identify top-performing product categories.
+- Enable interactive data exploration using slicers.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
 - Microsoft Excel
 
-## 📌 Key Performance Indicators
-- Total Sales
-- Total Profit
-- Total Orders
-- Total Quantity
-- Total Discount
+---
 
-## 📈 Dashboard Features
+## 📌 Key Performance Indicators (KPIs)
+
+- 💰 Total Sales
+- 📈 Total Profit
+- 📦 Total Quantity
+- 🛒 Total Orders
+
+---
+
+## 📊 Dashboard Features
+
 - Sales by Category
-- Profit Trend by Year
 - Sales by Sub-Category
-- Sales Distribution by Region
-- Cities by Region
-- Interactive Slicers (Quarter, Region, Segment, Category)
-- Detailed Order Information Table
+- Sales by Region
+- Orders by Ship Mode
+- Profit by Ship Mode
+- Ship Mode Distribution
+- Interactive Date Filter
+- Region Filter
+- Segment Filter
+- Dynamic KPI Cards
 
-## 💡 Key Insights
-- Technology generated the highest sales.
-- Sales performance varies across different regions and customer segments.
-- Interactive filters allow users to analyze data dynamically.
-- KPI cards provide a quick overview of business performance.
+---
 
 ## 📷 Dashboard Preview
-<img width="1317" height="735" alt="Dashboard" src="https://github.com/user-attachments/assets/706efb21-8328-4498-ace9-64d0a6204d38" />
 
 
-## 📂 Dataset
-Superstore Sales Dataset
+---
+
+## 📈 Business Insights
+
+- Technology generated the highest sales among all categories.
+- Standard Class accounted for the majority of shipped orders.
+- East and West regions contributed the highest sales.
+- KPI cards provide a quick overview of business performance.
+- Interactive slicers enable dynamic analysis by Region, Segment, and Date.
+
+---
 
 ## 🚀 Skills Demonstrated
+
 - Data Cleaning
-- Data Transformation
+- Data Modeling
+- DAX Measures
 - Data Visualization
 - Dashboard Design
-- DAX Measures
-- KPI Development
 - Business Intelligence
-- Data Analysis
+- KPI Development
+- Interactive Reporting
 
-##📁 Project Files
+---
 
-📂 Superstore-Sales-Performance-Dashboard
-│── Superstore.xlsx
-│── Dashboard.png
+## 📂 Dataset
+
+Sample Superstore Dataset
+
+---
+
+## 📁 Project Structure
+
+```
+Superstore-Sales-Performance-Dashboard
+│
+├── Dashboard.png
 └── README.md
 ```
 
-Author
+---
 
-Abishek RV
+## 👨‍💻 Author
+
+Abishek R V
 
 Aspiring Data Analyst
 
-**Skills:** SQL • Power BI • Excel • Python
+### Skills
+
+- SQL
+- Power BI
+- DAX
+- Microsoft Excel
+- Python
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
